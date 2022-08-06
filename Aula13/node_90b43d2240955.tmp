@@ -1,0 +1,9 @@
+cont = 0
+while (cont <= 5) {
+    console.log(cont)
+}
+/*console.log('1')
+console.log('2')
+console.log('3')
+console.log('4')
+console.log('5')*/
