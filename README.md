@@ -9,11 +9,11 @@ Este repositório contém uma coleção de exercícios de JavaScript do Curso em
 - [Contribuição](#contribuição) 🤝
 - [Licença](#licença) 📜
 
-## Sobre
+## ℹ️ Sobre
 
 Este repositório foi criado para ajudar os alunos do Curso em Vídeo a praticarem e aprimorarem suas habilidades de programação em JavaScript. Ele contém uma variedade de exercícios que acompanham as aulas do curso.
 
-## Como Usar
+## 🚀 Como Usar
 
 Para usar este repositório, siga estas etapas:
 
