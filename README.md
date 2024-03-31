@@ -6,6 +6,7 @@ Este repositório contém uma coleção de exercícios de JavaScript do Curso em
 
 - [Sobre](#sobre) ℹ️
 - [Como Usar](#como-usar) 🚀
+- [Links](#links) 🔗
 - [Contribuição](#contribuição) 🤝
 - [Licença](#licença) 📜
 
@@ -21,6 +22,11 @@ Para usar este repositório, siga estas etapas:
 
    ```bash
    git clone https://github.com/seu-nome-de-usuario/exercicios-de-javascript.git
+
+## 🔗 Links
+
+- [Acesse o Site do projeto](https://serignolli.github.io/Projeto-Reciclar/)
+- [Acesse meu LinkedIn](https://www.linkedin.com/in/gabriel-moreno-serignolli-317518222/)
 
 ## 🤝 Contribuição
 
